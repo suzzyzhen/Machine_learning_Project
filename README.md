@@ -2,9 +2,9 @@
 
 Dataset
 
-OnlineNewsPopularity/OnlineNewsPopularity.csv  ##Base Data
+OnlineNewsPopularity/OnlineNewsPopularity.csv  
    
-names.csv                                      ##Feature Information
+names.csv                       
 
 
 
