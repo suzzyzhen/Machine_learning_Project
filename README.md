@@ -9,6 +9,7 @@ Dataset
 PURPOSE: 
 
 -To perform Normalization and Train-Test split on input data, maintaining class distribution
+
 -To train Neural Network methodically with Train data and predict on Test data
 
 INSTRUCTIONS:
