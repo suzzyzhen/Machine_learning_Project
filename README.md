@@ -1,8 +1,11 @@
 # Machine_learning_Project
 
 Dataset
+
    ./OnlineNewsPopularity/OnlineNewsPopularity.csv  ##Base Data
+   
     ./names.csv                                      ##Feature Information
+    
     ./functions.py                                   ##Resource Functions for cleanliness
 
 
