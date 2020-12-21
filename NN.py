@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
 
+*************************************Data_structuring*************************************
 
 import numpy as np
 from numpy import genfromtxt
@@ -196,8 +196,8 @@ end=time.time()
 print(end-start)
 
 
-# In[3]:
 
+*************************************Results*************************************
 
 from sklearn.metrics import classification_report, confusion_matrix
 # print(confusion_matrix(yTest,Acc[1]))
